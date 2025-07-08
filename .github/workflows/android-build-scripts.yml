@@ -61,4 +61,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
            name: my-artifact
-           path: /android/ffmpeg-kit-android-lib/build/outputs/aar/ffmpeg-kit-release.aar
+           path: /home/runner/work/ffmpeg-kit-16KB/ffmpeg-kit-16KB/android/ffmpeg-kit-android-lib/build/outputs/aar/ffmpeg-kit-release.aar
